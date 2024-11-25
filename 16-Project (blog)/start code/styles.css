@@ -83,6 +83,10 @@
   font-family: var(--common-font);
 }
 
+.blog {
+  display: grid;
+}
+
 .blog-link {
   color: var(--common-black);
 }
